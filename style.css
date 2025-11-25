@@ -1,0 +1,443 @@
+body{
+    margin: 0%;
+    background-color: #ECF0F0;
+}
+.heroimg1{
+
+    padding: 0px;
+}
+.heroimg2 img{
+
+    padding: -10px; 
+     overflow: hidden;
+}
+.myimg{
+   padding: 0px;
+   background: #060e0f;
+   background: #060e0f;
+   background: linear-gradient(90deg, rgba(6, 14, 15, 1) 0%, rgba(24, 76, 84, 1) 25%, rgba(12, 30, 33, 1) 100%);
+}
+#mycard2{
+    display: flex;
+    margin: 100px 0px 0px 57px;
+}
+
+#mycard2 img{
+    height: 27px;
+    width: 22px;
+    margin-top: -26px;
+}
+.mydiv2 p{
+    font-size: 60px;
+    font-weight: 500;
+    margin: 5px -8px 71px 84px;
+}
+.mydiv2 p span{
+    color: #1b7171;
+}
+.mydiv2 h6{
+    margin: -23px 0px 0px 0px;
+    text-align: center;
+   display: flex;
+}
+/* card */
+
+.mycardimg {
+    margin: 317px 0 0 -21px;
+    width: 15rem;
+    height: 17rem;
+    border: 20px solid #ECF0F0 !important;
+    border-radius: 20px !important;
+    object-fit: cover; /* keeps the image from stretching */
+   
+}
+.mycardimg img{
+    display: flex;
+    
+}
+.cardimg{
+    width: 52px!important;
+    /* height: 104px; */
+    border-radius: 50%;
+    margin: 11px 0px 7px 0px;
+    display: flex;
+}
+.cardimg2{
+    margin: -58px 0px 0px 41px;
+}
+.cardimg3{
+    margin: -52px 0px 0px 82px;
+}
+.cardimg4{
+    margin:-53px 0px 0px 123px;
+    border-radius: 55px;
+}
+.cardtxt h1{
+    font-size: 59px;
+    font-weight: 700;
+    margin-top: 8px;
+}
+.cardtxt p{
+    font-weight: 450;
+    font-size: 14px;
+    color: #7E8D90;
+    justify-items: center;
+}
+/* All Headings */
+.heading{
+    text-align: center;
+    margin: 150px;
+}
+.box{
+    display: inline-flex;
+    border: #7E8D90 dashed 2px;
+    padding: 4px 1px 1px 48px;
+    width: 195px;
+    height: 37px;
+    margin: 0px 0px 43px 0px;
+}
+.box img{
+    height: 25px;
+    width: 25px;
+    margin: 0px 6px -1px -27px;
+
+}
+.box h6{
+    margin-top: 6px;
+    font-weight: 700;
+    font-size: 12px;
+    letter-spacing: 2px;  
+    
+}
+.heading h1{
+    font-size: 51px;
+    font-weight: 600;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     letter-spacing: -2px; 
+
+}
+.heading h1 span{
+    color: #1E8A8A;
+}
+
+/* card2 */
+.container1{
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+.mydiv4 .mycard3{
+    margin: 314px 0 0 -21px;
+    width: 14rem;
+    height: 14rem;
+    border: 20px solid #ECF0F0 !important;
+    border-radius: 20px !important;
+    object-fit: cover;
+}
+.mycardimg2{
+    height: 209px;
+    margin: 339px 0px 0px -17px;
+}
+.mycard3 h5{
+  color: #1E8A8A;
+  font-size: 18px;
+  font-weight: 600;
+
+}
+.mycard3 h1{
+    font-weight:700;
+    font-size: 53px;
+    
+}
+.mycard3 p{
+   font-size: 14px;
+   font-weight: 490;
+}
+/* ------------------------------------------------------------------------------------------------- */
+.mydiv5{
+  width: 100%;
+  height: 350%;
+}
+
+
+/* -------------------------------------------------------------------------------------------------------- */
+/* counter  */
+
+
+h1, h3  {
+  text-transform: uppercase;
+ }
+
+.counter
+{
+    text-align: center;
+    margin: 250px;
+}
+
+.counter-count
+{
+    font-size: 85px;
+    font-weight: 600;
+    position: relative;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+}
+/* custom */
+.card-counter{
+  background-color: #1E8A8A;
+  border-radius: 39px;
+  height: 226px;
+}
+.card-counter .count-up span{
+  font-size: 82px;
+  color: #fff;
+   font-weight: 85px;
+}
+.card-counter .count-up h3{
+  color: #fff;
+  font-size: 17px;
+  font-weight: 450;
+  margin-top: -19px;
+} 
+.card-counter .count-up img{
+  margin: -135px 17px 7px 257px;
+  height: 107px;
+  color: #1a8080; 
+}
+
+/* ---------------------------------------------------------------------------------------------------------- */
+/* Gridcolumn */
+.heading3{
+  margin: 30px;
+}
+.heading2 h1{
+      font-size: 33px;
+    font-weight: 600;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     letter-spacing: -2px; 
+     text-align: left;
+}
+.heading2 h1 span{
+    color: #1E8A8A;
+}
+.heading2 p{
+  font-size: 16px;
+  text-align:left;
+  line-height: 1.5;
+  font-family: sans-serif;
+  font-weight: normal;
+  padding: 0px 0px 0px 22px;
+}
+.heading2 button{
+border-radius: 42px;
+    background-color: #1E8A8A;
+    height: 50px;
+    width: 191px;
+
+}
+.container2 .row{
+    padding-right: 10px!important;
+    padding-left: 0px!important;
+}
+.card2 ,button,h5 a{
+  text-align: left;
+  margin-top: 330px;
+  color: #FFFFFF!important;
+  text-decoration: none!important;
+}
+.card2 h5{
+  font-size: 24px;
+}
+.card2 button{
+    height: 28px;
+    width: 109px;
+    padding: 1px;
+}
+.card2 button{
+  background-color: #1E8A8A!important;
+}
+
+
+/* footer section */
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+.footer-section {
+  background: #D8E5E5;
+  position: relative;
+}
+.footer-cta {
+  border-bottom: 1px solid #373636;
+}
+.single-cta i {
+  color: #ff5e14;
+  font-size: 30px;
+  float: left;
+  margin-top: 8px;
+}
+.cta-text {
+  padding-left: 15px;
+  display: inline-block;
+}
+.cta-text h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+.cta-text span {
+  color: #757575;
+  font-size: 15px;
+}
+.footer-content {
+  position: relative;
+  z-index: 2;
+}
+.footer-pattern img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 330px;
+  background-size: cover;
+  background-position: 100% 100%;
+}
+.footer-logo {
+  margin-bottom: 30px;
+}
+.footer-logo img {
+    max-width: 200px;
+}
+.footer-text p {
+  margin-bottom: 14px;
+  font-size: 14px;
+      color: #53696C;
+  line-height: 28px;
+}
+.footer-social-icon span {
+  color: #fff;
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 20px;
+}
+.footer-social-icon a {
+  color: #fff;
+  font-size: 16px;
+  margin-right: 15px;
+}
+.footer-social-icon i {
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 38px;
+  border-radius: 50%;
+}
+.facebook-bg{
+  background: #3B5998;
+}
+.twitter-bg{
+  background: #55ACEE;
+}
+.google-bg{
+  background: #DD4B39;
+}
+.footer-widget-heading h3 {
+  color: #17272A;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 40px;
+  position: relative;
+}
+.footer-widget-heading h3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -15px;
+  height: 2px;
+  width: 50px;
+  background: #ff5e14;
+}
+.footer-widget ul li {
+  display: inline-block;
+  /* float: left; */
+  width: 50%;
+  margin-bottom: 12px;
+}
+.footer-widget ul li a:hover{
+  color: #1E8A8A;
+}
+.footer-widget ul li a {
+  color: #53696C;
+  /* text-transform: capitalize; */
+  text-decoration: none;
+
+}
+.subscribe-form {
+  position: relative;
+  overflow: hidden;
+}
+.subscribe-form input {
+  width: 100%;
+  padding: 14px 28px;
+  background: #2E2E2E;
+  border: 1px solid #2E2E2E;
+  color: #fff;
+}
+.subscribe-form button {
+    position: absolute;
+    right: 0;
+    background: #ff5e14;
+    padding: 13px 20px;
+    border: 1px solid #ff5e14;
+    top: 0;
+}
+.subscribe-form button i {
+  color: #fff;
+  font-size: 22px;
+  transform: rotate(-6deg);
+}
+.copyright-area{
+  /* background: #202020; */
+  padding: 25px 0;
+}
+.copyright-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #878787;
+}
+.copyright-text p a{
+  color: #ff5e14;
+}
+.footer-menu li {
+  display: inline-block;
+  margin-left: 20px;
+}
+.footer-menu li:hover a{
+  color: #ff5e14;
+}
+.footer-menu li a {
+  font-size: 14px;
+  color: #878787;
+}
+/* custom css fotter*/
+.callimg1 img{
+    margin:0px 0px 0px 0px;
+    height: 35px;
+}
+.callimg2{
+  margin: -36px 0px 0px 0px;
+}
+.callimg2 img{
+    margin: -25px 2px -23px 205px;
+    height: 44px;
+}
+.callimg2 span{
+   margin: 0px 0px 0px 0px;
+}
+.copyright-text p{
+  text-align: right;
+  margin-top: -20px;
+}
